@@ -44,8 +44,8 @@ This project demonstrates my ability to set up a robust log management and analy
 
 For any questions or collaboration, feel free to contact me:
 
-- GitHub: [at0m-b0mb](https://github.com/at0m-b0mb)
-- LinkedIn: [Kailash Parshad](https://www.linkedin.com/in/kailash-parshad/)
+- GitHub: [Nuclear-At0m](https://github.com/Nucl3arAt0m)
+- LinkedIn: [Sahil Borse](https://www.linkedin.com/in/sahillborse/)
 
 ---
 
