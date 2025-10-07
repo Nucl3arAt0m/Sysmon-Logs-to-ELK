@@ -31,7 +31,6 @@ This project demonstrates my ability to set up a robust log management and analy
 - Sysmon configuration file used: [SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
 - Download Sysmon: [Microsoft Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - ELK Stack Installation Docs: [Elastic official documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html)
-- Project documentation (detailed PDF available)
 
 ## How to Use
 
